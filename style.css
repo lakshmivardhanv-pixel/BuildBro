@@ -147,6 +147,7 @@ sup { font-size: 0.5em; }
   font-size: 0.8rem;
   padding: 6px 14px;
   background: var(--lime);
+  color: var(--purple);
   border: 2px solid var(--black);
   transform: rotate(-3deg);
   box-shadow: 4px 4px 0 var(--black);
